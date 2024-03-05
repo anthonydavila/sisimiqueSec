@@ -9,7 +9,7 @@ Este script se proporciona "tal cual", sin garantías de ningún tipo, expresas 
 ## Uso
 
 1. Clone este repositorio en su máquina local.
-2. Ejecute el script bash `phishing.sh`.
+2. Ejecute el script bash `main.sh`.
 3. Seleccione entre Redes Sociales o Inicio de Sesión WiFi.
 4. Elija el sitio web específico que desea realizar el phishing.
 5. Espere a que el servidor se inicie y obtenga el enlace generado.
@@ -17,7 +17,7 @@ Este script se proporciona "tal cual", sin garantías de ningún tipo, expresas 
 
 ## Dependencias
 
-Este script requiere PHP y cURL para funcionar correctamente. Asegúrese de tener estas dependencias instaladas en su sistema antes de ejecutar el script.
+Este script requiere PHP y curl para funcionar correctamente. Asegúrese de tener estas dependencias instaladas en su sistema antes de ejecutar el script.
 
 ## Créditos
 
